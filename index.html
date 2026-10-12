@@ -1,1 +1,22 @@
-ciao mondo
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Copy Discord User</title>
+</head>
+<body>
+
+  <p>copy user</p>
+  <button onclick="copyUser()">Copia Username</button>
+
+  <script>
+    function copyUser() {
+      const username = "t1ron";
+      navigator.clipboard.writeText(username).then(() => {
+        alert("Username 't1ron' copiato negli appunti!");
+      });
+    }
+  </script>
+
+</body>
+</html>
