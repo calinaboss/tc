@@ -1,13 +1,115 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="it" dir="ltr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>my website</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+  <!-- Primary SEO Meta Tags -->
+  <title>Tiron C | Calina Tiron</title>
+  <meta name="title" content="Tiron C | Calina Tiron">
+  <meta name="description" content="Sito ufficiale di Tiron C (Calina Tiron). Contatti, profili e informazioni. Email: tiron@tironc.it | Discord: t1ron.">
+  <meta name="keywords" content="tiron c, calina tiron, Tiron C, Calina Tiron, t1ron, calinaboss, tiron, calina, tironc, tironc.it, sito ufficiale">
+  <meta name="author" content="Calina Tiron (Tiron C)">
+  <meta name="creator" content="Calina Tiron">
+  <meta name="publisher" content="Calina Tiron">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <meta name="bingbot" content="index, follow">
+  <link rel="canonical" href="https://tironc.it/">
+
+  <!-- Open Graph / Facebook / Discord / WhatsApp -->
+  <meta property="og:type" content="profile">
+  <meta property="og:site_name" content="Tiron C">
+  <meta property="og:title" content="Tiron C | Calina Tiron">
+  <meta property="og:description" content="Sito ufficiale di Tiron C (Calina Tiron). Discord: t1ron | Email: tiron@tironc.it">
+  <meta property="og:url" content="https://tironc.it/">
+  <meta property="og:locale" content="it_IT">
+  <meta property="profile:first_name" content="Calina">
+  <meta property="profile:last_name" content="Tiron">
+  <meta property="profile:username" content="t1ron">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Tiron C | Calina Tiron">
+  <meta name="twitter:description" content="Sito ufficiale di Tiron C (Calina Tiron). Discord: t1ron | Email: tiron@tironc.it">
+  <meta name="twitter:url" content="https://tironc.it/">
+
+  <!-- Favicon & PWA -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="apple-touch-icon" href="/favicon.svg">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#222222">
+
+  <!-- Performance: Preconnect Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Structured Data (JSON-LD) for Google Knowledge Graph & Entity Search -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://tironc.it/#website",
+        "url": "https://tironc.it/",
+        "name": "Tiron C",
+        "alternateName": [
+          "Calina Tiron",
+          "tiron c",
+          "calina tiron",
+          "tironc",
+          "tironc.it"
+        ],
+        "publisher": {
+          "@id": "https://tironc.it/#person"
+        },
+        "inLanguage": "it-IT"
+      },
+      {
+        "@type": "ProfilePage",
+        "@id": "https://tironc.it/#webpage",
+        "url": "https://tironc.it/",
+        "name": "Tiron C | Calina Tiron - Profilo Ufficiale",
+        "description": "Sito ufficiale di Tiron C (Calina Tiron).",
+        "isPartOf": {
+          "@id": "https://tironc.it/#website"
+        },
+        "about": {
+          "@id": "https://tironc.it/#person"
+        },
+        "mainEntity": {
+          "@id": "https://tironc.it/#person"
+        },
+        "inLanguage": "it-IT"
+      },
+      {
+        "@type": "Person",
+        "@id": "https://tironc.it/#person",
+        "name": "Calina Tiron",
+        "givenName": "Calina",
+        "familyName": "Tiron",
+        "alternateName": [
+          "Tiron C",
+          "tiron c",
+          "calina tiron",
+          "tiron",
+          "calinaboss",
+          "t1ron",
+          "Tiron Calina",
+          "C Tiron"
+        ],
+        "url": "https://tironc.it/",
+        "email": "mailto:tiron@tironc.it",
+        "sameAs": [
+          "https://github.com/calinaboss"
+        ]
+      }
+    ]
+  }
+  </script>
 
   <style>
     body {
@@ -25,6 +127,15 @@
       line-height: 1.6;
     }
 
+    a.mail-link {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    a.mail-link:hover {
+      text-decoration: underline;
+    }
+
     button {
       font-family: inherit;
       font-size: 14px;
@@ -36,19 +147,55 @@
       cursor: pointer;
       transition: background 0.2s;
     }
+
+    /* Screen reader accessible element for semantic indexing without altering visual design */
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
   </style>
 </head>
 <body>
-  <h1>hi, whatever you need ask it on discord or email me: tiron@tironc.it</h1>
+  <div class="sr-only">
+    <h2>Tiron C — Calina Tiron</h2>
+    <p>Profilo ufficiale di Calina Tiron (Tiron C). Contatti e riferimenti ufficiali: email tiron@tironc.it, Discord t1ron.</p>
+  </div>
 
-  <button onclick="copyUser()">Copy ds user</button>
+  <main>
+    <h1>hi, whatever you need ask it on discord or email me: <a class="mail-link" href="mailto:tiron@tironc.it">tiron@tironc.it</a></h1>
+
+    <button type="button" onclick="copyUser()">Copy ds user</button>
+  </main>
 
   <script>
     function copyUser() {
       const username = "t1ron";
-      navigator.clipboard.writeText(username).then(() => {
-        alert("Username 't1ron' copied");
-      });
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(username).then(() => {
+          alert("Username 't1ron' copied");
+        }).catch(() => {
+          fallbackCopy(username);
+        });
+      } else {
+        fallbackCopy(username);
+      }
+    }
+
+    function fallbackCopy(text) {
+      const ta = document.createElement("textarea");
+      ta.value = text;
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand("copy");
+      document.body.removeChild(ta);
+      alert("Username '" + text + "' copied");
     }
   </script>
 </body>

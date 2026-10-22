@@ -1,0 +1,17 @@
+{
+  "name": "Tiron C | Calina Tiron",
+  "short_name": "Tiron C",
+  "description": "Sito ufficiale di Tiron C (Calina Tiron)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#222222",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "128x128 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
