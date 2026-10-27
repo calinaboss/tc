@@ -39,3 +39,4 @@
 <!-- 38 : aggiornamento note personali -->
 <!-- 39 : verifica link -->
 <!-- 40 : aggiornato status bio -->
+<!-- 41 : controllo sitemap -->
