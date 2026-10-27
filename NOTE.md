@@ -53,3 +53,4 @@
 <!-- 52 : controllo sitemap -->
 <!-- 53 : revisione dati -->
 <!-- 54 : aggiornato registro -->
+<!-- 55 : check seo tags -->
