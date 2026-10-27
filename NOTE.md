@@ -9,3 +9,4 @@
 <!-- 8 : controllo sitemap -->
 <!-- 9 : revisione dati -->
 <!-- 10 : aggiornato registro -->
+<!-- 11 : check seo tags -->
