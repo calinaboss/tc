@@ -15,3 +15,4 @@
 <!-- 14 : check metadati -->
 <!-- 15 : piccolo fix note -->
 <!-- 16 : aggiornamento note personali -->
+<!-- 17 : verifica link -->
