@@ -38,3 +38,4 @@
 <!-- 37 : piccolo fix note -->
 <!-- 38 : aggiornamento note personali -->
 <!-- 39 : verifica link -->
+<!-- 40 : aggiornato status bio -->
