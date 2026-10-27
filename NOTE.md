@@ -12,3 +12,4 @@
 <!-- 11 : check seo tags -->
 <!-- 12 : aggiornato profilo -->
 <!-- 13 : revisione info -->
+<!-- 14 : check metadati -->
