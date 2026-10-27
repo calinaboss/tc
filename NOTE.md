@@ -45,3 +45,4 @@
 <!-- 44 : check seo tags -->
 <!-- 45 : aggiornato profilo -->
 <!-- 46 : revisione info -->
+<!-- 47 : check metadati -->
