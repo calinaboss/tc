@@ -56,3 +56,4 @@
 <!-- 55 : check seo tags -->
 <!-- 56 : aggiornato profilo -->
 <!-- 57 : revisione info -->
+<!-- 58 : check metadati -->
