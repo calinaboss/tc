@@ -22,3 +22,4 @@
 <!-- 21 : aggiornato registro -->
 <!-- 22 : check seo tags -->
 <!-- 23 : aggiornato profilo -->
+<!-- 24 : revisione info -->
