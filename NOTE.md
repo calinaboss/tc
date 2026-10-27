@@ -42,3 +42,4 @@
 <!-- 41 : controllo sitemap -->
 <!-- 42 : revisione dati -->
 <!-- 43 : aggiornato registro -->
+<!-- 44 : check seo tags -->
