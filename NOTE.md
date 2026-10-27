@@ -46,3 +46,4 @@
 <!-- 45 : aggiornato profilo -->
 <!-- 46 : revisione info -->
 <!-- 47 : check metadati -->
+<!-- 48 : piccolo fix note -->
