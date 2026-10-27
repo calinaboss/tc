@@ -50,3 +50,4 @@
 <!-- 49 : aggiornamento note personali -->
 <!-- 50 : verifica link -->
 <!-- 51 : aggiornato status bio -->
+<!-- 52 : controllo sitemap -->
