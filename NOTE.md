@@ -23,3 +23,4 @@
 <!-- 22 : check seo tags -->
 <!-- 23 : aggiornato profilo -->
 <!-- 24 : revisione info -->
+<!-- 25 : check metadati -->
