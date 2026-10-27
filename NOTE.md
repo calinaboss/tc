@@ -4,3 +4,4 @@
 <!-- 3 : check metadati -->
 <!-- 4 : piccolo fix note -->
 <!-- 5 : aggiornamento note personali -->
+<!-- 6 : verifica link -->
