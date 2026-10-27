@@ -32,3 +32,4 @@
 <!-- 31 : revisione dati -->
 <!-- 32 : aggiornato registro -->
 <!-- 33 : check seo tags -->
+<!-- 34 : aggiornato profilo -->
