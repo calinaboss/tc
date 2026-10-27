@@ -6,3 +6,4 @@
 <!-- 5 : aggiornamento note personali -->
 <!-- 6 : verifica link -->
 <!-- 7 : aggiornato status bio -->
+<!-- 8 : controllo sitemap -->
