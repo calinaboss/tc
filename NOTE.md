@@ -25,3 +25,4 @@
 <!-- 24 : revisione info -->
 <!-- 25 : check metadati -->
 <!-- 26 : piccolo fix note -->
+<!-- 27 : aggiornamento note personali -->
