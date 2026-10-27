@@ -66,3 +66,4 @@
 <!-- 4 : check rapido -->
 <!-- 5 : verifica elenco -->
 <!-- 6 : aggiornamento stato -->
+<!-- 7 : nota di test -->
