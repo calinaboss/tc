@@ -16,3 +16,4 @@
 <!-- 15 : piccolo fix note -->
 <!-- 16 : aggiornamento note personali -->
 <!-- 17 : verifica link -->
+<!-- 18 : aggiornato status bio -->
