@@ -54,3 +54,4 @@
 <!-- 53 : revisione dati -->
 <!-- 54 : aggiornato registro -->
 <!-- 55 : check seo tags -->
+<!-- 56 : aggiornato profilo -->
