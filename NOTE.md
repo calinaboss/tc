@@ -20,3 +20,4 @@
 <!-- 19 : controllo sitemap -->
 <!-- 20 : revisione dati -->
 <!-- 21 : aggiornato registro -->
+<!-- 22 : check seo tags -->
