@@ -37,3 +37,4 @@
 <!-- 36 : check metadati -->
 <!-- 37 : piccolo fix note -->
 <!-- 38 : aggiornamento note personali -->
+<!-- 39 : verifica link -->
