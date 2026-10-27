@@ -63,3 +63,4 @@
 <!-- 1 : controllo note -->
 <!-- 2 : revisione interna -->
 <!-- 3 : aggiornato promemoria -->
+<!-- 4 : check rapido -->
