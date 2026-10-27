@@ -30,3 +30,4 @@
 <!-- 29 : aggiornato status bio -->
 <!-- 30 : controllo sitemap -->
 <!-- 31 : revisione dati -->
+<!-- 32 : aggiornato registro -->
