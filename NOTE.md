@@ -49,3 +49,4 @@
 <!-- 48 : piccolo fix note -->
 <!-- 49 : aggiornamento note personali -->
 <!-- 50 : verifica link -->
+<!-- 51 : aggiornato status bio -->
