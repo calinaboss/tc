@@ -8,3 +8,4 @@
 <!-- 7 : aggiornato status bio -->
 <!-- 8 : controllo sitemap -->
 <!-- 9 : revisione dati -->
+<!-- 10 : aggiornato registro -->
