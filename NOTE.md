@@ -28,3 +28,4 @@
 <!-- 27 : aggiornamento note personali -->
 <!-- 28 : verifica link -->
 <!-- 29 : aggiornato status bio -->
+<!-- 30 : controllo sitemap -->
