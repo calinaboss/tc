@@ -36,3 +36,4 @@
 <!-- 35 : revisione info -->
 <!-- 36 : check metadati -->
 <!-- 37 : piccolo fix note -->
+<!-- 38 : aggiornamento note personali -->
