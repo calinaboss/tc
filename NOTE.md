@@ -58,3 +58,4 @@
 <!-- 57 : revisione info -->
 <!-- 58 : check metadati -->
 <!-- 59 : piccolo fix note -->
+<!-- 60 : aggiornamento note personali -->
