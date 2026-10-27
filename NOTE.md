@@ -52,3 +52,4 @@
 <!-- 51 : aggiornato status bio -->
 <!-- 52 : controllo sitemap -->
 <!-- 53 : revisione dati -->
+<!-- 54 : aggiornato registro -->
