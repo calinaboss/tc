@@ -24,3 +24,4 @@
 <!-- 23 : aggiornato profilo -->
 <!-- 24 : revisione info -->
 <!-- 25 : check metadati -->
+<!-- 26 : piccolo fix note -->
