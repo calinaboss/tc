@@ -3,3 +3,4 @@
 <!-- 2 : revisione info -->
 <!-- 3 : check metadati -->
 <!-- 4 : piccolo fix note -->
+<!-- 5 : aggiornamento note personali -->
