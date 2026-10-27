@@ -19,3 +19,4 @@
 <!-- 18 : aggiornato status bio -->
 <!-- 19 : controllo sitemap -->
 <!-- 20 : revisione dati -->
+<!-- 21 : aggiornato registro -->
