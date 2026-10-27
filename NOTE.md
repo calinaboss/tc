@@ -14,3 +14,4 @@
 <!-- 13 : revisione info -->
 <!-- 14 : check metadati -->
 <!-- 15 : piccolo fix note -->
+<!-- 16 : aggiornamento note personali -->
