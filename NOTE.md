@@ -34,3 +34,4 @@
 <!-- 33 : check seo tags -->
 <!-- 34 : aggiornato profilo -->
 <!-- 35 : revisione info -->
+<!-- 36 : check metadati -->
