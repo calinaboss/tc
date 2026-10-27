@@ -10,3 +10,4 @@
 <!-- 9 : revisione dati -->
 <!-- 10 : aggiornato registro -->
 <!-- 11 : check seo tags -->
+<!-- 12 : aggiornato profilo -->
