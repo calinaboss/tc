@@ -41,3 +41,4 @@
 <!-- 40 : aggiornato status bio -->
 <!-- 41 : controllo sitemap -->
 <!-- 42 : revisione dati -->
+<!-- 43 : aggiornato registro -->
