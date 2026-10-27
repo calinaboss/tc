@@ -47,3 +47,4 @@
 <!-- 46 : revisione info -->
 <!-- 47 : check metadati -->
 <!-- 48 : piccolo fix note -->
+<!-- 49 : aggiornamento note personali -->
