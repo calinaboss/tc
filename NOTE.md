@@ -64,3 +64,4 @@
 <!-- 2 : revisione interna -->
 <!-- 3 : aggiornato promemoria -->
 <!-- 4 : check rapido -->
+<!-- 5 : verifica elenco -->
