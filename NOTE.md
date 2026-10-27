@@ -65,3 +65,4 @@
 <!-- 3 : aggiornato promemoria -->
 <!-- 4 : check rapido -->
 <!-- 5 : verifica elenco -->
+<!-- 6 : aggiornamento stato -->
