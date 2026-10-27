@@ -62,3 +62,4 @@
 <!-- 0 : piccolo appunto aggiunto -->
 <!-- 1 : controllo note -->
 <!-- 2 : revisione interna -->
+<!-- 3 : aggiornato promemoria -->
