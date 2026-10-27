@@ -59,3 +59,4 @@
 <!-- 58 : check metadati -->
 <!-- 59 : piccolo fix note -->
 <!-- 60 : aggiornamento note personali -->
+<!-- 0 : piccolo appunto aggiunto -->
