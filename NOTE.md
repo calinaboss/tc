@@ -27,3 +27,4 @@
 <!-- 26 : piccolo fix note -->
 <!-- 27 : aggiornamento note personali -->
 <!-- 28 : verifica link -->
+<!-- 29 : aggiornato status bio -->
